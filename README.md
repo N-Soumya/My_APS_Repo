@@ -10,3 +10,7 @@ Will contain the code for all the problems encountered.....(Hope to keep all of 
 7. dijk: Dijkstra's Algorithm; Language used: C
 8. LongestCommonPrefix: Finding longest common prefix of array os strings; Language used: cpp
 9. Floyd: Floyd's algorithm.
+10. Honoi: Towers of hanoi solution; Language used: c
+11. heapSort: Sorting array using heap sort algorithm; Language used: cpp
+12. mergeSort: Sorting array using merge sort; Language used: cpp
+13. SpanningTree: Creating spanning tree; Language used: c
