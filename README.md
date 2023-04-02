@@ -87,5 +87,12 @@ Will contain the code for all the problems encountered.....(Hope to keep all of 
 84. revll: Reverse linked list
 85. sparseMatrix: Sparse matrix implementation
 86. uppertrnglemat: Create upper triangle matrix
+87. circll: circular linked list implementation
+88. fact: Factorial of a number
+89. insertfrontll: Insert front in a linked list
+90. nthll: Find nth element in a linked list
+91. repChar: Replicate character in string
+92. slowfast: Slow fast pointers
+93. travel_ll: Travel linked list
 
 
