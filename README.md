@@ -49,5 +49,14 @@ Will contain the code for all the problems encountered.....(Hope to keep all of 
 46. remWhiteSpaces: Remove white spaces in a string
 47. toothpick: Toothpick problem
 48. unionFind: Union Find Implementation
+49. armstrong: Check if number is armstrong number
+50. bubbleSort: Bubble Sort algorithm
+51. caseLogging: Case Logging in cpp
+52. cocktailSort: Cocktail Sort implementation
+53. cycleSort: Cycle sort implementation
+54. insertionSort: Insertion Sort implementation
+55. oddEve: Odd- Even Sorting
+56. QuickSort: Quick Sort implementation
+57. treeSort: Tree Sort implementation
 
 
