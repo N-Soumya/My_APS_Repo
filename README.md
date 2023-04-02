@@ -58,5 +58,34 @@ Will contain the code for all the problems encountered.....(Hope to keep all of 
 55. oddEve: Odd- Even Sorting
 56. QuickSort: Quick Sort implementation
 57. treeSort: Tree Sort implementation
+58. bintree: Binary tree from user inputs
+59. checksorted: Check if array is sorted
+60. checkt: check if number t is present in array
+61. circQueue: Circular Queue implementation
+62. countDig: Count number of digits in a number
+63. countZero: Count number of zeroes in a number
+64. diagmat: Create diagonal matrix
+65. findIndic: Find number in array and return indice
+66. findLength: Find length of the string
+67. findSum: Find sum X in array
+68. GeoSum: Find geometric sum of k elements in geometric series
+69. keypad: Keypad problem
+70. leftRot: Left rotate an array by 1
+71. indicex: return indice of x in array
+72. inoutprec: In and Out Precendence
+73. lowertrnglemat: Create lower triangle matrix
+74. maxProfit: Maximum profit problem in array
+75. mergedcll: Merge two double cycleic linked lists
+76. mulProb: Multiplication of two numbers with conditions
+77. oddAfterEve: Arrange numbers in array such that there is odd number after every even number.
+78. queue: Queue implementation
+79. remDuplicates: Remove duplicates in an array
+80. remsortele: Remove elements from sorted array
+81. remx: Remove element x from array
+82. rev: Reverse number
+83. revArray: Reverse Array
+84. revll: Reverse linked list
+85. sparseMatrix: Sparse matrix implementation
+86. uppertrnglemat: Create upper triangle matrix
 
 
