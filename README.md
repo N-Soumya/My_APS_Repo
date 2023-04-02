@@ -41,5 +41,13 @@ Will contain the code for all the problems encountered.....(Hope to keep all of 
 38. spanningTree: Spanning Tree creation
 39. stolenValue: Stolen Value Problem
 40. subsetSum: Subset Sum Problem
+41. counthp: count hamiltanian paths
+42. gamingArray: Gaming array problem
+43. hamcycles: print hamiltanian cycles
+44. hamiltanianPath: print hamiltanian paths
+45. mos: Mo's Algorithm
+46. remWhiteSpaces: Remove white spaces in a string
+47. toothpick: Toothpick problem
+48. unionFind: Union Find Implementation
 
 
