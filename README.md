@@ -94,5 +94,13 @@ Will contain the code for all the problems encountered.....(Hope to keep all of 
 91. repChar: Replicate character in string
 92. slowfast: Slow fast pointers
 93. travel_ll: Travel linked list
+94. editDist: Edit Distance problem
+95. eggDropPuzzle: Egg Drop Puzzle solution
+96. matChainMult: Matrix chain multiplication problem
+97. minInsDelString: minimum insertion and deletion operations for a string to change to another string
+98. minNumJumps: Minimum number of jumps problem
+99. paintersPart: Painter's partition problem
+100. uniqueBST: Unique BST Problem
+101. wordWrap: Word Wrap Problem
 
 
